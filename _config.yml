@@ -1,0 +1,11 @@
+# basic options
+title: Your awesome title
+author: Anilkumar Dhulappanavar
+email: dhulappanavar@yahoo.com
+description: A wonderful site
+twitter_username: adhulappanavar
+github_username:  adhulappanavar
+
+# Build settings
+markdown: kramdown
+theme: minima
